@@ -77,8 +77,9 @@ computer-vision-cifar10/
 
 ### Plots:
 ![Accuracy curve](screenshots/accuracy.png)
+git add .
 
-![Confusion matrix](screenshots/custom_head.png)
+![Confusion matrix](screenshots/conf_matrix.png)
 
 ---
 
