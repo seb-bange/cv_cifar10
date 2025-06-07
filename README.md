@@ -19,7 +19,7 @@ This project demonstrates a full deep learning workflow for image classification
 - `project_computer_vision.py` – Script version of the notebook
 - `Project_CV_presentation.pdf` – Final project presentation (3–5 min pitch)
 
-'''
+```
 computer-vision-cifar10/
 │
 ├── notebooks/
@@ -38,7 +38,7 @@ computer-vision-cifar10/
 │
 ├── README.md                                  # Project description
 ├── requirements.txt                           # Requirements
-'''
+```
 
 ---
 
